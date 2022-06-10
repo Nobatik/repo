@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif; 
+	background: #f551519e;
 }
 
 a { 
@@ -30,7 +31,7 @@ h2 {
     float:right;
     width:30%;
     padding:10px;
-    background:#efefef; 
+    background:#c4c5ff; 
     height:100%;
 }
 
